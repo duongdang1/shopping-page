@@ -1,7 +1,8 @@
 Các bước debug với xdebug: 
 
 1. Bật xdebug trên browser qua phần extensions. Sau khi bật xdebug sẽ ở góc phải bên trên. Khi bật xdebug thì hình con bọ sẽ chuyển sang màu xanh lá.
-![](Screenshot%202021-06-07%20212109%20-%20Copy%20(2).png)
+![Screenshot 2021-06-07 212109 - Copy (2)](https://user-images.githubusercontent.com/60163299/121042832-40471700-c7de-11eb-8935-f43cbcf04798.png)
+
 
 
 2. Sau khi đã bật xdebug trên browser, sẽ bắt đầu chạy xdebug trên IDE. Trước khi chạy xdebug, cần kiểm tra file launch.json tất cả config.
